@@ -6,6 +6,6 @@ qdrant_client
 python-dotenv
 langchain-groq
 chainlit
-chromadb
+chromadb==0.3.29
 fastembed
 unstructured[md]
